@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Player.cs">
+    <Files>
+      <File FileName="Assets\Code\HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\PathDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\PointStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\JumpPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\PathedProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\SimpleEnemyAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\SimpleProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\GiveDamageToPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
